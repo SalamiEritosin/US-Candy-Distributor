@@ -79,7 +79,7 @@ The US candy distributor operational database consists of three tables with a to
 <br>
 
 ![overview](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_overview.png)
-![route](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_route.png)
+![route](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_route.png)
 ![profit](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_profit.png)
 **Insights**
 - **Lot’s O’ Nuts** consistently generates $2.46–$2.47 profit per unit across Atlantic, Pacific, and Interior regions while **Wicked Choccy’s** consistently generates $2.27–$2.29 profit per unit across its regions indicating their production efficiency.
