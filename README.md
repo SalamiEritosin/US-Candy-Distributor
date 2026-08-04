@@ -103,12 +103,14 @@ The US candy distributor operational database consists of three tables with a to
 ## 6. Author
 
 **[Eritosin Salami]**
-[Data Analyst]
+<br>
+  [Data Analyst]
 
 - 🔗 [www.linkedin.com/in/eritosin-salami]
-- 💼 [https://github.com/EritosinSalami]
-- 📧 [salamieritosinlearn@gmail.com]
+- 💼 [https://github.com/SalamiEritosin]
+- 📧 [salamieritokede@gmail.com]
 
 ---
 
-*Last updated: [June 2026]*
+*Last updated: [Aug. 2026]*
+
