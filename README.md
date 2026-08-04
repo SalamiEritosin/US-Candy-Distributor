@@ -30,7 +30,7 @@ This US candy distributor delivered a strong performance in 2024 driven by incre
 
   The SQL Queries used to analyze and aggregate the data for this project can be found [here](https://github.com/SalamiEritosin/US-Candy-Distributor/tree/main/analysis/queries)
 
-  Dashboard visuals can be found [here]()
+  Dashboard visuals can be found [here](https://github.com/SalamiEritosin/US-Candy-Distributor/tree/main/analysis/visuals)
   <br>
   <br>
   PowerBI file(pbix) can be found [here](https://tinyurl.com/5xkaf369)
