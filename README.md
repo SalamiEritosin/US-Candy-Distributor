@@ -78,7 +78,7 @@ The US candy distributor operational database consists of three tables with a to
 
 <br>
 
-![overview](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_overview.png)
+![overview](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_overview.png)
 ![route](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_route.png)
 ![profit](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_profit.png)
 **Insights**
