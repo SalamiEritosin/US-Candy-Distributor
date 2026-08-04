@@ -80,7 +80,7 @@ The US candy distributor operational database consists of three tables with a to
 
 ![overview](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_overview.png)
 ![route](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_route.png)
-![profit](https://github.com/EritosinSalami/Candy_Distributor/blob/main/analysis/visuals/candy_profit.png)
+![profit](https://github.com/SalamiEritosin/US-Candy-Distributor/blob/main/analysis/visuals/candy_profit.png)
 **Insights**
 - **Lot’s O’ Nuts** consistently generates $2.46–$2.47 profit per unit across Atlantic, Pacific, and Interior regions while **Wicked Choccy’s** consistently generates $2.27–$2.29 profit per unit across its regions indicating their production efficiency.
 - New York City, Los Angeles and Philadelphia are the absolute center routes for both factories (highest order volumes and total profit). **Lot’s O’ Nuts** successfully services Seattle (Pacific) and Houston (Interior) with high efficiency but **Wicked Choccy's** does not appear in Seattle or Houston.
