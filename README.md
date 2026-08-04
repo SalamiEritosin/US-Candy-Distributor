@@ -5,12 +5,12 @@
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [ProjectTools](#3-project-tools)
-3. [Data Workflow](#4-data-workflow)
-4. [ERD - Entity Relationship Diagram](#5-erd--entity-relationship-diagram)
-5. [Key Insights](#6-key-insights)
-6. [Recommendations](#7-recommendations)
-7. [Author](#8-author)
+2. [ProjectTools](#2-project-tools)
+3. [Data Workflow](#3-data-workflow)
+4. [ERD - Entity Relationship Diagram](#4-erd--entity-relationship-diagram)
+5. [Key Insights](#5-key-insights)
+6. [Recommendations](#6-recommendations)
+7. [Author](#7-author)
 
 ---
 
